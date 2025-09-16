@@ -72,7 +72,7 @@ Flutter, Dart
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-5tpcgmqu0-noir-joes-projects.vercel.app/api?username=NoirJ0e&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-six-zeta-67.vercel.app/api?username=NoirJ0e&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirJ0e&layout=compact&theme=dark&hide_border=true)
 
