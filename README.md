@@ -7,7 +7,7 @@ I'm a Software Engineering Master's student at the University of Melbourne, pass
 - 🎓 Pursuing **Master of Software Engineering** at University of Melbourne (Expected: Dec 2025)
 - 💼 Recently completed an internship at **Toll Logistics**, optimizing enterprise operations with Python automation
 - 🌱 Currently learning **Distributed Systems**, **Cloud Architecture**, and **Mobile Computing**
-- 🔭 Working on **RideShare** - A ride-matching platform built with Java and React
+- 🔭 Working on **ArtCert** - An online artworks trading platform with verification built-in
 - 📫 Reach me at: **zilin.xu@outlook.com.au**
 - 📍 Location: **Melbourne, Australia**
 
@@ -44,27 +44,27 @@ I'm a Software Engineering Master's student at the University of Melbourne, pass
 
 ## Featured Projects 🛠️
 
-### [RideShare](https://github.com/NoirJ0e/rideshare)
+### [RideShare](https://github.com/SWEN90007-2025-sem2/nil)
 
 _Ongoing_ | Java, React, PostgreSQL, Firebase
 
 > A ride-matching web application implementing MVC architecture with concurrent booking system and zone-based pricing
 
-### [FlowRun](https://github.com/NoirJ0e/flowrun)
+### [FlowRun](https://github.com/NoirJ0e/2025s2-unimelb-comp90018)
 
-Android, Firebase, Google Maps API
+_Ongoing_ | Android, Firebase, Google Maps API
 
 > Context-aware fitness tracker with multi-sensor integration and real-time route visualization for campus runners
 
-### [ArtCert](https://github.com/NoirJ0e/artcert)
+### [ArtCert](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-AC-Team1)
 
-Next.js, TypeScript, TanStack Query, Supabase
+_Ongoing_ | Next.js, TypeScript, TanStack Query, Supabase
 
 > Digital art gallery platform with optimized data fetching and secure transaction management
 
-### [Healthy Connections](https://github.com/NoirJ0e/healthy-connections)
+### [Healthy Connections](https://github.com/2024s2-itproject-103/flutter_ui_curtin_health)
 
-Flutter, Dart, Provider
+Flutter, Dart
 
 > Tablet-optimized healthcare consultation interface developed as university capstone project
 
@@ -72,7 +72,7 @@ Flutter, Dart, Provider
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoirJ0e&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-5tpcgmqu0-noir-joes-projects.vercel.app/api?username=NoirJ0e&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirJ0e&layout=compact&theme=dark&hide_border=true)
 
@@ -95,7 +95,7 @@ Flutter, Dart, Provider
 
 <div align="center">
   
-**Open to graduate software engineering opportunities from February 2025** 🚀
+**Open to graduate software engineering opportunities** 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=NoirJ0e&color=blue&style=flat-square)
 
