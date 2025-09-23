@@ -4,7 +4,7 @@
 
 I'm a Software Engineering Master's student at the University of Melbourne, passionate about building practical solutions that make a difference. Currently diving deep into distributed systems while working on full-stack applications that solve real-world problems.
 
-- 🎓 Pursuing **Master of Software Engineering** at University of Melbourne (Expected: Dec 2025)
+- 🎓 Pursuing **Master of Software Engineering** at University of Melbourne (Expected: Nov 2026)
 - 💼 Recently completed an internship at **Toll Logistics**, optimizing enterprise operations with Python automation
 - 🌱 Currently learning **Distributed Systems**, **Cloud Architecture**, and **Mobile Computing**
 - 🔭 Working on **ArtCert** - An online artworks trading platform with verification built-in
