@@ -1,102 +1,73 @@
-# Hi there, I'm Zilin (Joe) 👋
+# Hi, I'm Zilin (Joe) 👋
 
-## About Me 🚀
+Full-stack engineer who ships to production. Master of Software Engineering @ University of Melbourne (expected Nov 2026). I like turning fuzzy requirements into working products — from the client conversation, through the API, all the way to the UI.
 
-I'm a Software Engineering Master's student at the University of Melbourne, passionate about building practical solutions that make a difference. Currently diving deep into distributed systems while working on full-stack applications that solve real-world problems.
-
-- 🎓 Pursuing **Master of Software Engineering** at University of Melbourne (Expected: Nov 2026)
-- 💼 Recently completed an internship at **Toll Logistics**, optimizing enterprise operations with Python automation
-- 🌱 Currently learning **Distributed Systems**, **Cloud Architecture**, and **Mobile Computing**
-- 🔭 Working on **ArtCert** - An online artworks trading platform with verification built-in
-- 📫 Reach me at: **zilin.xu@outlook.com.au**
-- 📍 Location: **Melbourne, Australia**
+- 💼 Most recently a **full-stack TypeScript developer contracted to ByteDance via Kingswork** — shipped a client-facing module from POC to production in a month, served across all offices globally, and cut one API's latency hard with a flattened-query + caching rewrite
+- 🛠️ Currently building **MAT** — an AI-powered marketplace capstone with a real industry client, where I'm the most-active full-stack contributor and de-facto docs/architecture lead
+- 🌱 Exploring **agentic systems** the builder's way — building [Homunculus](https://github.com/NoirJ0e/Homunculus), a hybrid deterministic-engine + agent-tools project on the Anthropic Agent SDK, to actually understand agent internals rather than just orchestrate them
+- 📫 **noirjoe@outlook.com** · 📍 Melbourne, Australia
 
 ## Tech Stack 💻
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Database
+**Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Python](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Platforms
+**DevOps & Tooling**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Projects 🛠️
+## Featured Work 🛠️
 
-### [RideShare](https://github.com/SWEN90007-2025-sem2/nil)
+### [adaptive-units](https://github.com/NoirJ0e/adaptive-units) · published on npm
 
-_Ongoing_ | Java, React, PostgreSQL, Firebase
+`Tailwind CSS v4` · `Vite` · `PostCSS`
 
-> A ride-matching web application implementing MVC architecture with concurrent booking system and zone-based pricing
+A published npm package that rewrites Tailwind classes in `.vw.tsx` / `.vh.tsx` files to viewport-relative units, so you can write pixel values straight from a design spec and get responsive output for free. A small dive into the frontend build toolchain — writing a PostCSS plugin and hooking into Tailwind's compile step.
 
-### [FlowRun](https://github.com/NoirJ0e/2025s2-unimelb-comp90018)
+### [Homunculus](https://github.com/NoirJ0e/Homunculus)
 
-_Ongoing_ | Android, Firebase, Google Maps API
+`TypeScript` · `Anthropic Agent SDK` · `discord.js`
 
-> Context-aware fitness tracker with multi-sensor integration and real-time route visualization for campus runners
+A Discord-native AI tabletop runner: a deterministic engine/referee plus generative agents (an AI narrator + AI teammates) in one process. A hybrid architecture experiment — deterministic core + agent tooling/MCP — and my hands-on way of learning how agent systems actually work under the hood. Documented with ADRs and a domain model. *(In active development.)*
 
-### [ArtCert](https://github.com/SWEN90014-2025-SM2/SWEN90014-2025-AC-Team1)
+### [todo-cli-go](https://github.com/NoirJ0e/todo-cli-go)
 
-_Ongoing_ | Next.js, TypeScript, TanStack Query, Supabase
+`Go` · `TDD` · `Layered Architecture`
 
-> Digital art gallery platform with optimized data fetching and secure transaction management
-
-### [Healthy Connections](https://github.com/2024s2-itproject-103/flutter_ui_curtin_health)
-
-Flutter, Dart
-
-> Tablet-optimized healthcare consultation interface developed as university capstone project
+A TUI-first task manager built bottom-up with test-driven development — a clean split between a core library, an HTTP API, and presentation layers. My playground for picking up Go and practising disciplined architecture.
 
 ## GitHub Stats 📊
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-six-zeta-67.vercel.app/api?username=NoirJ0e&show_icons=true&theme=transparent)
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoirJ0e&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirJ0e&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-## Current Focus 🎯
-
-- 🔍 Exploring microservices architecture and container orchestration
-- 📚 Deepening knowledge in distributed systems and consensus algorithms
-- 🚀 Building production-ready applications with modern tech stacks
-- 💡 Open to collaboration on interesting projects
-
-## Let's Connect! 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zilin-xu-264062252/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zilin.xu@outlook.com.au)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoirJ0e)
-
----
-
-<div align="center">
-  
-**Open to graduate software engineering opportunities** 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NoirJ0e&color=blue&style=flat-square)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoirJ0e&layout=compact&theme=transparent&hide_border=true)
