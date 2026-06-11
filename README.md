@@ -5,7 +5,7 @@ Full-stack engineer who ships to production. Master of Software Engineering @ Un
 - 💼 Most recently a **full-stack TypeScript developer contracted to ByteDance via Kingswork** — shipped a client-facing module from POC to production in a month, served across all offices globally, and cut one API's latency hard with a flattened-query + caching rewrite
 - 🛠️ Currently building **MAT** — an AI-powered marketplace capstone with a real industry client, where I'm the most-active full-stack contributor and de-facto docs/architecture lead
 - 🌱 Exploring **agentic systems** the builder's way — building [Homunculus](https://github.com/NoirJ0e/Homunculus), a hybrid deterministic-engine + agent-tools project on the Anthropic Agent SDK, to actually understand agent internals rather than just orchestrate them
-- 📫 **noirjoe@outlook.com** · 📍 Melbourne, Australia
+- 📫 **zilin.xu@outlook.com.au** · 📍 Melbourne, Australia
 
 ## Tech Stack 💻
 
